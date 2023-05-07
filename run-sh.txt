@@ -1,0 +1,8 @@
+$ cat >run-node.sh <<NFSN_FEEL_THE_POWER
+> #!/bin/sh
+> exec npm run start
+> NFSN_FEEL_THE_POWER
+
+
+
+chmod a+x run-node.sh
